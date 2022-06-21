@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psychtm"]
+	path = psychtm
+	url = https://github.com/ktw5691/psychtm
+	shallow = true
+	registered = true
